@@ -14,3 +14,7 @@ You can download the playground and just play with bezier line control point(s) 
 # Bezier Quad Curve:
 
 <img src="/gifs/BezierQuadCurve.gif" />
+
+# Created by:
+Paweł Kowalczuk
+@riamf1
