@@ -16,5 +16,6 @@ You can download the playground and just play with bezier line control point(s) 
 <img src="/gifs/BezierQuadCurve.gif" />
 
 # Created by:
-Paweł Kowalczuk
-@riamf1
+Paweł Kowalczuk,
+
+[@riamf1](https://twitter.com/riamf1)
